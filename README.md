@@ -60,15 +60,12 @@ We see that the values of MEDV are distributed normally with few outliers.
 
 Next, I have created a correlation matrix that measures the linear relationships between the variables. The correlation matrix is formed by using the corr function from the pandas dataframe library. I have also used the heatmap function from the seaborn library to plot the correlation matrix.
 
-alt text
 
 The correlation coefficient ranges from -1 to 1. If the value is close to 1, it means that there is a strong positive correlation between the two variables. When it is close to -1, the variables have a strong negative correlation.
 
 By looking at the correlation matrix we can see that RM has a strong positive correlation with MEDV (0.7) and LSTAT has a high negative correlation with MEDV (-0.74).
 
 Finally I have created scatter plots to see correlate among MEDV, RM and LSTAT. I have used the scatterplot function from the seaborn library.
-
-alt text
 
 From the scatter plots we can see that the MEDV or prices increase as the value of RM increases linearly. There are few outliers and the data seems to be capped at 50. And the prices tend to decrease with an increase in LSTAT.
 
