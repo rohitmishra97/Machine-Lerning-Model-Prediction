@@ -1,7 +1,7 @@
 # Machine-Lerning-Model-Prediction
-Boston House Price Prediction
-Name	Date
-Rohit Mishra	25-July-2024
+ ## Boston House Price Prediction
+
+
 ## Resources
 Python script boston_houseing.py for analysis
 Results figure saved in plots folder
