@@ -1,4 +1,4 @@
-# Machine-Lerning-Model-Prediction
+# Machine-Learning-Model-Prediction
  ## Boston House Price Prediction
 
 
